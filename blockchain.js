@@ -68,6 +68,10 @@ class Blockchain {
   }
 }
 
+module.exports.Blockchain = Blockchain;
+module.exports.Block = Block;
+
+// Manual Block Addition
 // let theblockchaincoder = new CryptoBlockchain();
 // console.log("theblockchaincoder mining in progress....");
 
@@ -78,6 +82,3 @@ class Blockchain {
 //     quantity: 50,
 //   })
 // );
-
-module.exports.Blockchain = Blockchain;
-module.exports.Block = Block;
