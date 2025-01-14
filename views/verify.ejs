@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Verify Transaction</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+  <form method="post" actiontransaction" id="form" class="validate form">
+    <h2>Verify Transaction</h2>
+    <p>Enter Transaction Id to verify</p>
+    <div class="form-field">
+      <label for="transactionId">Transaction Id : </label>
+      <input type="text" placeholder="e.g. ab12cd34" id="transactionId" name="transactionId" required />
+    </div>
+    <div class="form-field">
+      <label for=""></label>
+      <input type="submit" value="Verify" />
+    </div>
+    <div class="crtverify">
+      <% if (isValid !=null) { %>
+        <p class="<%= isValid ? 'green btn' : 'red btn' %>">Valid: <%= isValid ? 'Yes' : 'No' %>
+        </p>
+        <% } %>
+    </div>
+    <div class="links">
+      <a class="back" href="/">Back</a>
+    </div>
+  </form>
+</body>
+
+</html>
