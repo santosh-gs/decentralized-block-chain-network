@@ -1,1 +1,6 @@
-# decentralized-block-chain-network
+# Decentralised Block Chain Network
+
+### Blockchain Structure
+
+
+### Instructions
