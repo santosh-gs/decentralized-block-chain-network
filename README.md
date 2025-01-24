@@ -12,16 +12,21 @@ Figure Credit: [GeeksforGeeks](https://www.geeksforgeeks.org/ethical-hacking/blo
 
 
 ### Transactions
-![Home Page](https://github.com/santosh-gs/decentralized-block-chain-network/blob/main/images/index_ejs.png?raw=true)
 
-![Verify Transaction Page](https://github.com/santosh-gs/decentralized-block-chain-network/blob/main/images/verify_ejs.png?raw=true)
+<p align="center">
+  <img src="https://github.com/santosh-gs/decentralized-block-chain-network/blob/main/images/index_ejs.png?raw=true" width="49%" />
+  <img src="https://github.com/santosh-gs/decentralized-block-chain-network/blob/main/images/verify_ejs.png?raw=true" width="49%" />
+  
+</p>
 
 ### Instructions
+
 * Clone the repo: `git clone https://github.com/santosh-gs/decentralized-block-chain-network.git`
 * Navigate to the folder and run `npm init -y` to initialize a node project.
 * Run `npm install express crypto-js ejs body-parser` to install required dependencies.
 * Run `node app.js` and visit `http://localhost:3000/` in your browser.
 
 ### Requirements
+
 * Node.js [Link](https://nodejs.org/en)
 * NPM Dependencies: `express` `crypto-js` `ejs` `body-parser`
