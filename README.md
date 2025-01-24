@@ -1,14 +1,20 @@
 # Decentralised Blockchain Network with Node.js
 
 ### Blockchain Structure
-<!-- <p align="center">
-  <img src="https://github.com/santosh-gs/decentralized-block-chain-network/blob/main/images/blockchain_structure_geeksforgeeks.png?raw=true" width="98%" />
-</p> -->
 
-![Blockchain Network](https://github.com/santosh-gs/decentralized-block-chain-network/blob/main/images/blockchain_structure_geeksforgeeks.png?raw=true)
+<p align="center">
+  <img src="https://github.com/santosh-gs/decentralized-block-chain-network/blob/main/images/blockchain_structure_geeksforgeeks.png?raw=true" width="98%" />
+</p> 
+
+<!-- ![Blockchain Network](https://github.com/santosh-gs/decentralized-block-chain-network/blob/main/images/blockchain_structure_geeksforgeeks.png?raw=true) -->
 
 Figure Credit: [GeeksforGeeks](https://www.geeksforgeeks.org/ethical-hacking/blockchain-structure/) 
 
+
+### Transactions
+![Home Page](https://github.com/santosh-gs/decentralized-block-chain-network/blob/main/images/index_ejs.png?raw=true)
+
+![Verify Transaction Page](https://github.com/santosh-gs/decentralized-block-chain-network/blob/main/images/verify_ejs.png?raw=true)
 
 ### Instructions
 * Clone the repo: `git clone https://github.com/santosh-gs/decentralized-block-chain-network.git`
