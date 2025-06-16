@@ -14,10 +14,14 @@ Figure Credit: [GeeksforGeeks](https://www.geeksforgeeks.org/ethical-hacking/blo
 ### Transactions
 
 <p align="center">
+
   <img src="https://github.com/santosh-gs/decentralized-block-chain-network/blob/main/images/index_ejs.png?raw=true" width="49%" />
   <img src="https://github.com/santosh-gs/decentralized-block-chain-network/blob/main/images/verify_ejs.png?raw=true" width="49%" />
+
+  <img src="https://github.com/santosh-gs/decentralized-block-chain-network/blob/main/images/transaction_blocks.png?raw=true" width="98%" />
   
 </p>
+
 
 ### Instructions
 
@@ -29,4 +33,4 @@ Figure Credit: [GeeksforGeeks](https://www.geeksforgeeks.org/ethical-hacking/blo
 ### Requirements
 
 * Node.js [Link](https://nodejs.org/en)
-* NPM Dependencies: `express` `crypto-js` `ejs` `body-parser`
+* Dependencies: `express` `crypto-js` `ejs` `body-parser`
